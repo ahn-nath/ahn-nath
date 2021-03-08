@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahn-nath&title_color=ffffff&text_color=c9cacc&icon_color=107a94&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ahn-nath">">
+<a href="https://github.com/ahn-nath">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahn-nath&theme=dark" alt="Nath's GitHub Stats" />
 </a>
 
