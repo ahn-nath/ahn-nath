@@ -13,7 +13,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork
 
 
-### _RANDOM ~_
+### _RANDOM_ ~
 
 <!-- RANDOM -->
 - 💻 I am looking to collaborate with open source projects that will give others access to personal and professional development resources.
@@ -22,7 +22,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 
 <!-- JOURNEY -->
 
-### _JOURNEY ~_
+### _JOURNEY_  ~
 
 - I studied at a technical/vocational school.
 - 2017 - I got passionate about solving coding challenges.
@@ -34,7 +34,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 
 <!-- TECH -->
 
-### _TECH ~_
+### _TECH_  ~
 
 - Java - Full stack development.
 - Python - Automation of administrative tasks.
