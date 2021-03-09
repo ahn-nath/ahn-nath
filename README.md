@@ -1,14 +1,45 @@
 ### Welcome to my profile 👋
 
-<!-- INTRO -->
+## _I am a planner, builder and idealist_
 
-<!-- RANDOM -->
+<!-- INTRO -->
+Individual with an eager desire to  solve social challenges with the help of technology.
 
 <!-- ACHIEVEMENTS -->
 
+- [Technovation](https://technovationchallenge.org/) semifinalist - 2018
+- [English Access Microscholarship](https://exchanges.state.gov/non-us/program/english-access-microscholarship-program) alumni - 2018
+- [Global Venture Catalyst](globalventurecatalyst.org/) alumni - 2021
+- [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork
+
+
+### _RANDOM ~_
+
+<!-- RANDOM -->
+- 💻 I am looking to collaborate with open source projects that will give others access to personal and professional development resources.
+- 💻 I am open to any opportunity that will help leverage my software development skills. 
+- 💪 When I am not coding or studying, I do bodybuilding and spend time with my family and friends.
+
 <!-- JOURNEY -->
 
+### _JOURNEY ~_
+
+- I studied at a technical/vocational school.
+- 2017 - I got passionate about solving coding challenges.
+- 2018 - I won the Technovation Challenge Venezuela.
+- 2019 - I started working as a junior web developer for a national agency.
+- 2020 - I started working with international clients as a freelancer. 
+- 2021 - I decided it was the right time to help solve specific issues affecting young students and professionals. 
+
+
 <!-- TECH -->
+
+### _TECH ~_
+
+- Java - Full stack development.
+- Python - Automation of administrative tasks.
+- Python - Data cleaning and feature engineering.
+- WordPress - Front-end development. 
 
 
 <!-- STATS -->
@@ -21,19 +52,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahn-nath&theme=dark" alt="Nath's GitHub Stats" />
 </a>
 
-
-
-<!--
-**ahn-nath/ahn-nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
