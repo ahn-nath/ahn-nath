@@ -41,6 +41,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - Python - Data cleaning and feature engineering.
 - WordPress - Front-end development. 
 
+We can't back down, not right now. 
 
 <!-- STATS -->
 
