@@ -18,7 +18,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 <!-- RANDOM -->
 - 💻 I am looking to collaborate with open source projects that will give others access to personal and professional development resources.
 - 💻 I am open to any opportunity that will help leverage my software development skills. 
-- 💪 When I am not coding or studying, I do bodybuilding and spend time with my family and friends.
+- 💪 When I am not coding or studying, I do bodybuilding and spend time with my family.
 
 <!-- JOURNEY -->
 
