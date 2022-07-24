@@ -12,14 +12,16 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - [Global Venture Catalyst](globalventurecatalyst.org/) alumni - 2021
 - [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork
 - [Develop for Good](https://www.developforgood.org/) volunteer - Summer 2021
+- [GitHub Campus Expert](https://githubcampus.expert/explore) member - 2022 
+- [Shubhra Kar Linux Foundation Training (LiFT) Scholarship](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) recipient - 2022  
 
 
 ### _RANDOM_ ~
 
 <!-- RANDOM -->
 - 💻 I am looking to collaborate with open source projects that will give others access to personal and professional development resources.
-- 💻 I am open to any opportunity that will help leverage my software development skills. 
-- 💪 When I am not coding or studying, I do bodybuilding and spend time with my family.
+- 💻 I am currently focusing on leveraging my software engineering skills to build solutions. 
+- 💪 When I am not coding or studying, I do bodybuilding and spend time with my loved ones.
 
 <!-- JOURNEY -->
 
@@ -40,7 +42,8 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - Java - Full stack development.
 - Python - Automation of administrative tasks.
 - Python - Data cleaning and feature engineering.
-- WordPress - Front-end development. 
+- Core JavaScript - Client-side scripts/front-end support. 
+- Web Builders - Quick/standard front-end development. 
 
 We can't back down, not right now. 
 
