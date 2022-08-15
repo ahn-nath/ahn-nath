@@ -13,7 +13,8 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork
 - [Develop for Good](https://www.developforgood.org/) volunteer - Summer 2021
 - [GitHub Campus Expert](https://githubcampus.expert/explore) member - 2022 
-- [Shubhra Kar Linux Foundation Training (LiFT) Scholarship](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) recipient - 2022  
+- [Shubhra Kar Linux Foundation Training (LiFT) Scholarship](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) recipient - 2022 
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) fellow - Fall 2022
 
 
 ### _RANDOM_ ~
