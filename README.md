@@ -42,7 +42,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 ### _TECH_  ~
 
 - Java - Full stack development.
-- Python - Automation of administrative tasks.
+- Python - Automation of administrative tasks, full stack development.
 - Python - Data cleaning and feature engineering.
 - Core JavaScript - Client-side scripts/front-end support. 
 - Web Builders - Quick/standard front-end development. 
