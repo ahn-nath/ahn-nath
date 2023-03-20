@@ -34,7 +34,7 @@ Individual with an eager desire to  solve social challenges with the help of tec
 - 2018 - I won the Technovation Challenge Venezuela.
 - 2019 - I started working as a junior web developer for a national agency.
 - 2020 - I started working with international clients as a freelancer. 
-- 2021 - I decided it was the right time to help solve specific issues affecting young students and professionals. 
+- 2021 - I decided it was the right time to help solve specific issues affecting young students and professionals. I also started my university studies in computer science. 
 
 
 <!-- TECH -->
