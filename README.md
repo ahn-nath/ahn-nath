@@ -3,7 +3,7 @@
 ## _I am a planner, builder and idealist_
 
 <!-- INTRO -->
-Individual with an eager desire to  solve social challenges with the help of technology.
+Individual with an eager desire to solve social challenges with the help of technology.
 
 <!-- ACHIEVEMENTS -->
 
