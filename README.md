@@ -7,15 +7,16 @@ Individual with an eager desire to solve social challenges with the help of tech
 
 <!-- ACHIEVEMENTS -->
 
-- [Technovation](https://technovationchallenge.org/) semifinalist - 2018
+- [Technovation](https://technovationchallenge.org/) semifinalist - 2018.
 - [English Access Microscholarship](https://exchanges.state.gov/non-us/program/english-access-microscholarship-program) alumni - 2018
-- [Global Venture Catalyst](globalventurecatalyst.org/) alumni - 2021
+- [Global Venture Catalyst](globalventurecatalyst.org/) alumni - 2021.
 - [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork, 2021.
-- [Develop for Good](https://www.developforgood.org/) volunteer - Summer 2021
-- [GitHub Campus Expert](https://githubcampus.expert/explore) member - 2022 
-- [Shubhra Kar Linux Foundation Training (LiFT) Scholarship](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) recipient - 2022 
+- [Develop for Good](https://www.developforgood.org/) volunteer - Summer 2021.
+- [GitHub Campus Expert](https://githubcampus.expert/explore) member - 2022.
+- [Shubhra Kar Linux Foundation Training (LiFT) Scholarship](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) recipient - 2022. 
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) fellow - Fall 2022
 - [Top Rated Plus](https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges) status on Upwork, 2023.
+- [Outreachy/Wikimedia](https://www.outreachy.org/alums/2023-05/) intern - 2023.
 
 
 ### _RANDOM_ ~
