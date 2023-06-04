@@ -8,7 +8,7 @@ Individual with an eager desire to solve social challenges with the help of tech
 <!-- ACHIEVEMENTS -->
 
 - [Technovation](https://technovationchallenge.org/) semifinalist - 2018.
-- [English Access Microscholarship](https://exchanges.state.gov/non-us/program/english-access-microscholarship-program) alumni - 2018
+- [English Access Microscholarship](https://exchanges.state.gov/non-us/program/english-access-microscholarship-program) alumni - 2018.
 - [Global Venture Catalyst](globalventurecatalyst.org/) alumni - 2021.
 - [Top Rated](https://support.upwork.com/hc/en-us/articles/211068468-Top-Rated) status on Upwork, 2021.
 - [Develop for Good](https://www.developforgood.org/) volunteer - Summer 2021.
