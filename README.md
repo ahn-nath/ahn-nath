@@ -17,6 +17,7 @@ Individual with an eager desire to solve social challenges with the help of tech
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) fellow - Fall 2022
 - [Top Rated Plus](https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges) status on Upwork, 2023.
 - [Outreachy/Wikimedia](https://www.outreachy.org/alums/2023-05/) intern - 2023.
+- Toptal Freelancer (Developer category), part of the top 3% that gets accepted - 2026.
 
 
 ### _RANDOM_ ~
